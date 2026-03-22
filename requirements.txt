@@ -3,3 +3,4 @@ easyocr
 pillow
 requests
 opencv-python-headless
+streamlit-lottie
