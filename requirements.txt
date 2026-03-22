@@ -1,1 +1,5 @@
-breathe
+streamlit
+easyocr
+pillow
+requests
+opencv-python-headless
